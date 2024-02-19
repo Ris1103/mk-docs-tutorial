@@ -1,4 +1,5 @@
-site_name: MkDocs YouTube Tutorial
+site_name: Mkdocs Tutorial
+site_url: https://ris1103.github.io/mk-docs-tutorial/
 theme:
   name: material
   features:
@@ -26,12 +27,13 @@ theme:
       primary: teal
       accent: lime
 
+plugins:
+  - social
 
 extra:
   social:
-    - icon: fontawesome/brands/github
+    - icon: fontawesome/brands/github-alt
       link: https://github.com/Ris1103
-
 
 markdown_extensions:
   - pymdownx.highlight:

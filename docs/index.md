@@ -4,15 +4,15 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## Code Annotation Examples
 
-### CodeBlocks
+### Codeblocks
 
-Some code goes here
+Some `code` goes here.
 
-### Plain Code Block
+### Plain codeblock
 
 A plain codeblock:
 
-``` py
+```markdown
 Some code here
 def myfunction()
 // some comment
